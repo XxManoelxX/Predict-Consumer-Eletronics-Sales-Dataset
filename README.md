@@ -6,14 +6,14 @@ This dataset provides insights into consumer electronics sales, featuring produc
 ## Features:
 
    * ProductID: Unique identifier for each product.
-    ProductCategory: Category of the consumer electronics product (e.g., Smartphones, Laptops).
-    ProductBrand: Brand of the product (e.g., Apple, Samsung).
-    ProductPrice: Price of the product ($).
-    CustomerAge: Age of the customer.
-    CustomerGender: Gender of the customer (0 - Male, 1 - Female).
-    PurchaseFrequency: Average number of purchases per year.
-    CustomerSatisfaction: Customer satisfaction rating (1 - 5).
-    PurchaseIntent (Target Variable): Intent to purchase.
+   * ProductCategory: Category of the consumer electronics product (e.g., Smartphones, Laptops).
+   * ProductBrand: Brand of the product (e.g., Apple, Samsung).
+   * ProductPrice: Price of the product ($).
+   * CustomerAge: Age of the customer.
+   * CustomerGender: Gender of the customer (0 - Male, 1 - Female).
+   * PurchaseFrequency: Average number of purchases per year.
+   * CustomerSatisfaction: Customer satisfaction rating (1 - 5).
+   * PurchaseIntent (Target Variable): Intent to purchase.
 
 ## Conclusion:
 
