@@ -63,6 +63,3 @@ The analysis described in this notebook aims to provide valuable insights into s
 
 
 
-## Conclusion:
-
-This dataset facilitates analysis on consumer behavior and purchase patterns in the consumer electronics sector, aiding insights into market dynamics and customer preference
