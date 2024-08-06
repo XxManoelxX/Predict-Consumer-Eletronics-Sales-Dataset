@@ -1,9 +1,11 @@
 ## Description:
 
 This dataset provides insights into consumer electronics sales, featuring product categories, brands, prices, customer demographics, purchase behavior, and satisfaction metrics. It aims to analyze factors influencing purchase intent and customer satisfaction in the consumer electronics market.
-Features:
 
-    ProductID: Unique identifier for each product.
+
+## Features:
+
+   * ProductID: Unique identifier for each product.
     ProductCategory: Category of the consumer electronics product (e.g., Smartphones, Laptops).
     ProductBrand: Brand of the product (e.g., Apple, Samsung).
     ProductPrice: Price of the product ($).
