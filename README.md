@@ -7,6 +7,11 @@
 This dataset provides insights into consumer electronics sales, featuring product categories, brands, prices, customer demographics, purchase behavior, and satisfaction metrics. It aims to analyze factors influencing purchase intent and customer satisfaction in the consumer electronics market.
 
 
+
+### Observation:
+The images are plotted using Plotly Express and then stored in a folder named "images" for better viewing on GitHub.
+
+
 ## Features:
 
    * ProductID: Unique identifier for each product.
